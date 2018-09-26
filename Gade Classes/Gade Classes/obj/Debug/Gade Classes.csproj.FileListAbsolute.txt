@@ -1,0 +1,6 @@
+c:\users\hvdmerwe.vpn\documents\visual studio 2015\Projects\Gade Classes\Gade Classes\bin\Debug\Gade Classes.exe.config
+c:\users\hvdmerwe.vpn\documents\visual studio 2015\Projects\Gade Classes\Gade Classes\bin\Debug\Gade Classes.exe
+c:\users\hvdmerwe.vpn\documents\visual studio 2015\Projects\Gade Classes\Gade Classes\bin\Debug\Gade Classes.pdb
+c:\users\hvdmerwe.vpn\documents\visual studio 2015\Projects\Gade Classes\Gade Classes\obj\Debug\Gade Classes.csprojResolveAssemblyReference.cache
+c:\users\hvdmerwe.vpn\documents\visual studio 2015\Projects\Gade Classes\Gade Classes\obj\Debug\Gade Classes.exe
+c:\users\hvdmerwe.vpn\documents\visual studio 2015\Projects\Gade Classes\Gade Classes\obj\Debug\Gade Classes.pdb
