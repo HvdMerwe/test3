@@ -11,14 +11,14 @@ namespace Gade_Classes
         private string name;
         private string studentNumber;
         private int lastTestScore;
-
+        //make a comment
         public Student(string sName, string sStNum)
         {
             name = sName;
             studentNumber = sStNum;
             takeTest();
         }
-
+        //another comment
         public string getName()
         {
             return name;
